@@ -10,7 +10,7 @@ from models import render_models
 from data_generation import render_data_generation
 from axioms import render_axioms
 
-st.set_page_config(page_title="Causal Reasoning through Axiomatic Training", layout="wide")
+st.set_page_config(page_title="paper2dash", layout="wide")
 
 st.title("Teaching Transformers Causal Reasoning through Axiomatic Training")
 
