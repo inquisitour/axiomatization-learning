@@ -16,7 +16,7 @@ This repository contains an interactive dashboard for the paper "Teaching Transf
 ## 📁 Project Structure
 
 ```
-causal_reasoning_dashboard/
+axiomatization-learning/
 │
 ├── main_dashboard.py
 ├── introduction.py
@@ -34,8 +34,8 @@ causal_reasoning_dashboard/
 
 1. Clone this repository:
    ```
-   git clone https://github.com/your-username/causal-reasoning-dashboard.git
-   cd causal-reasoning-dashboard
+   git clone https://github.com/inquisitour/axiomatization-learning.git
+   cd axiomatization-learning
    ```
 
 2. Install the required packages:
@@ -87,7 +87,7 @@ If you use this dashboard in your research, please cite the original paper:
 
 ## 📧 Contact
 
-For any queries, please open an issue or contact [your-email@example.com](mailto:your-email@example.com).
+For any queries, please open an issue or contact [deshmulhpratik931@gmail.com](deshmulhpratik931@gmail.com).
 
 ---
 
