@@ -2,7 +2,11 @@
 
 [![Python](https://img.shields.io/badge/Python-3.7%2B-blue)](https://www.python.org/downloads/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.0%2B-FF4B4B)](https://streamlit.io/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-3.0%2B-orange)](https://matplotlib.org/)
+[![Pandas](https://img.shields.io/badge/Pandas-1.0%2B-150458)](https://pandas.pydata.org/)
+[![NetworkX](https://img.shields.io/badge/NetworkX-2.0%2B-yellow)](https://networkx.org/)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
 
 This repository contains an interactive dashboard for the paper "Teaching Transformers Causal Reasoning through Axiomatic Training" by Vashishtha et al. (2024). Explore key findings on how transformers learn causal axioms, generalize to complex structures, and compare with large language models.
 
@@ -67,10 +71,6 @@ Navigate through different sections using the sidebar to explore various aspects
 ## 🤝 Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
-
-## 📜 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 📚 Citation
 
