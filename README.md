@@ -1,13 +1,13 @@
 # Causal Reasoning Through Axiomatic Training: Interactive Dashboard
 
-<p align="center">
+<div align="center">
 [![Python](https://img.shields.io/badge/Python-3.7%2B-blue)](https://www.python.org/downloads/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.0%2B-FF4B4B)](https://streamlit.io/)
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-3.0%2B-orange)](https://matplotlib.org/)
 [![Pandas](https://img.shields.io/badge/Pandas-1.0%2B-150458)](https://pandas.pydata.org/)
 [![NetworkX](https://img.shields.io/badge/NetworkX-2.0%2B-yellow)](https://networkx.org/)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
-</p>
+</div>
 
 This repository contains an interactive dashboard for the paper "Teaching Transformers Causal Reasoning through Axiomatic Training" by Vashishtha et al. (2024). Explore key findings on how transformers learn causal axioms, generalize to complex structures, and compare with large language models.
 
